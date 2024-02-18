@@ -1,0 +1,25 @@
+{
+  "name": "@sairamn/easy-calc",
+  "version": "1.0.0",
+  "description": "A Simple Calculator that performs basic and advanced mathops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpectureRam/easy_calc.git"
+  },
+  "keywords": [
+    "npm",
+    "calc",
+    "simple",
+    "maths"
+  ],
+  "author": "Sairam N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpectureRam/easy_calc/issues"
+  },
+  "homepage": "https://github.com/SpectureRam/easy_calc#readme"
+}
